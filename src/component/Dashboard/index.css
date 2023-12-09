@@ -1,0 +1,21 @@
+.table-body{
+    height: 35rem  !important;
+    overflow: auto;
+    /* position:absolute; */
+}::-webkit-scrollbar {
+    width: 8px;
+}::-webkit-scrollbar-track {
+    background: #f1f1f1; 
+}::-webkit-scrollbar-thumb {
+    background: #888; 
+    border-radius: 10px;
+}::-webkit-scrollbar-thumb:hover {
+    background: #555; 
+}
+.header {
+    text-align: center;
+    text-decoration: solid;
+  }
+  .dashboard-body{
+    background-color: rgb(218, 218, 218);
+  }
